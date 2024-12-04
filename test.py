@@ -1,0 +1,3 @@
+#onlyatest
+
+print ('hello world');
